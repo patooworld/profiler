@@ -1903,12 +1903,10 @@
     "@testing-library/dom" "^9.0.0"
     "@types/react-dom" "^18.0.0"
 
-"@tgwf/co2@^0.12.2":
-  version "0.12.2"
-  resolved "https://registry.yarnpkg.com/@tgwf/co2/-/co2-0.12.2.tgz#4dbd1b137a9c19040e15ecbd168090fcf8e11db2"
-  integrity sha512-TcOtska9jKCRNJ+sEXa+s3ze36Ts5sS/S2sSIk7KR2UmPctANcKyTKusYBfmrXmkPKaxBc1QxGvFvBcneI1/Yw==
-  dependencies:
-    debug "^4.3.4"
+"@tgwf/co2@^0.14.0":
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/@tgwf/co2/-/co2-0.14.0.tgz#1373d5ca57cbc8e7b6d18ff9798b72b4bf790478"
+  integrity sha512-is1+Xjd0YJrgTtLM1PXBqomgbih69jzVc1OMonAk8eDAHmey7Tr7pPs/FUtl+gqs3aPJMqBtNCipHOB2AZvBKg==
 
 "@tootallnate/once@1":
   version "1.1.2"
